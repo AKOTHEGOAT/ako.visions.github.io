@@ -29,5 +29,7 @@
 <h3> Some of my works: </h3>
 <img src="images/work 1.jpg"/> 
 <img src="images/work 2.jpg"/> 
+<img src="images/work 3.jpg"/> 
+<img src="images/work 4.jpg"/> 
    </body>
 </html>
