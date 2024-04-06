@@ -15,6 +15,7 @@
    <body>
       <h1>Akorede Ladapo-ogunyele</h1>
 <a href= "https://www.instagram.com/ako.visions/"> Instagram </a>| <a href= "mailto:ako.visioneyes@gmail.com"> Email </a>
+   <img src="image/head shots.jpg" alt="Me"/>   
       <p>"To consult the rules of composition before making a picture is a little like consulting the law of gravitation before going for a walk."- Edward Weston .</p>
 <p> I'm a beginner photographer, who is looking to share with the world what I see. A little bit of myself, growing up as a young kid who was fascinated with cameras, and taking pics.</p>
 <p> As time went on, I began to experiment more, from learning to edit to learning the different techniques with the rule of framing shots. With every new thing learned, my passion for photography started to grow, and my creative vision started to expand even more.</p>
