@@ -15,7 +15,7 @@
    <body>
       <h1>Akorede Ladapo-ogunyele</h1>
 <a href= "https://www.instagram.com/ako.visions/"> Instagram </a>| <a href= "mailto:ako.visioneyes@gmail.com"> Email </a>
-   <img src="image/head shots.jpg"/>   
+   <img src="images/head shots.jpg"/>   
       <p>"To consult the rules of composition before making a picture is a little like consulting the law of gravitation before going for a walk."- Edward Weston .</p>
 <p> I'm a beginner photographer, who is looking to share with the world what I see. A little bit of myself, growing up as a young kid who was fascinated with cameras, and taking pics.</p>
 <p> As time went on, I began to experiment more, from learning to edit to learning the different techniques with the rule of framing shots. With every new thing learned, my passion for photography started to grow, and my creative vision started to expand even more.</p>
@@ -27,6 +27,7 @@
 <p> But on January 25th, 2024, I started my Instagram page dedicated to sharing my visions with the world. Ako. visions allow me to be able to share my vision with the world but, also learning from other people and continue growing as both a photographer and a person </p>
 
 <h3> Some of my works: </h3>
-
+<img src="images/work 1.jpg"/> 
+<img src="images/work 2.jpg"/> 
    </body>
 </html>
