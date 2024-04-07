@@ -27,9 +27,9 @@
 <p> But on January 25th, 2024, I started my Instagram page dedicated to sharing my visions with the world. Ako. visions allow me to be able to share my vision with the world but, also learning from other people and continue growing as both a photographer and a person </p>
 
 <h3> Some of my works: </h3>
-<img src="images/work 1.jpg"/> 
-<img src="images/work 2.jpg"/> 
-<img src="images/work 3.jpg"/> 
-<img src="images/work 4.jpg"/> 
+<img src="images/work 1.jpg" width="200" /> 
+<img src="images/work 2.jpg"  width="200"/> 
+<img src="images/work 3.jpg" width="200" /> 
+<img src="images/work 4.jpg"  width="200"/> 
    </body>
 </html>
